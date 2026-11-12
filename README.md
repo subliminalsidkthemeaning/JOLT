@@ -1,3 +1,11 @@
+# JOLT historical archive
+
+JOLT is now **HEX**. [Download the verified HEX installer](https://github.com/subliminalsidkthemeaning/HEX/releases/latest/download/HEX-Setup-x64.exe) or visit [HEX releases](https://github.com/subliminalsidkthemeaning/HEX/releases).
+
+This repository preserves the original JOLT releases and download links. No historical release assets have been replaced. Application source remains private.
+
+---
+
 # JOLT
 
 **Stream light. Play loud.** A native Windows music player with real online streaming, local favorites and playlists, Windows media controls, and optional Discord Rich Presence.
